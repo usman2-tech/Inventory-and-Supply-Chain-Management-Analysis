@@ -52,7 +52,7 @@ This Power BI project focuses on **Inventory and Supply Chain Management Analysi
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The dataset contains information on:
 
@@ -65,7 +65,7 @@ The dataset contains information on:
 
 ---
 
-## 🖼️ Dashboard Preview
+##  Dashboard Preview
 
 <img width="712" height="371" alt="Inventory and supply chain analysis" src="https://github.com/user-attachments/assets/dfac9755-4fda-487e-a01a-e20614ca5e15" />
 
@@ -77,7 +77,7 @@ https://app.powerbi.com/view?r=eyJrIjoiNjcyMGI5ZTEtZGEwOC00MzUxLWI4YzgtZTYxMGYwZ
 
 ---
 
-## 🛠 Tools and Technologies
+##  Tools and Technologies
 
 * **Power BI** (Dashboard Development, DAX, Power Query)
 * **Excel / CSV** (Data Source)
